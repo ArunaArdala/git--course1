@@ -1,0 +1,1 @@
+AdminService class contains details of Admin Services
